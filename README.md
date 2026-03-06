@@ -2,7 +2,7 @@
 
 ## Welcome to a new evolution in Solo Bitcoin Mining!
 
-### MintSolo Platform - Beta v0.0.9
+### MintSolo Platform - Beta v0.0.10
 
 With this release, we are introducing our community app store version of the MintSolo, Solo Bitcoin Mining Platform for Umbrel.
 

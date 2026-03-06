@@ -48,8 +48,8 @@ services:
     environment:
       HOME: /mnt
       STATE_DIRECTORY: /mnt
-      ZROK_ENABLE_TOKEN: Ffe1FB6sGwn9
-      ZROK_API_ENDPOINT: https://zrok.shared.mintsolo.app
+      ZROK_ENABLE_TOKEN: vrEgy4fVBvYZ
+      ZROK_API_ENDPOINT: https://zrok.share.mintsolo.app
       ZROK_ENVIRONMENT_NAME: MintSolo
   zrok-share:
     image: docker.io/openziti/zrok:latest@sha256:ce807816d16a0975763ef5537a58aa3f63fd6d08c8fdc6c882a2d92aa35dac11

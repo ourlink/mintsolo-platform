@@ -4,7 +4,7 @@ name: MintSolo
 tagline: MintSolo - Solo Bitcoin Mining Platform
 icon: https://i.imgur.com/PrgiuqS.png
 category: Development
-version: "v0.0.9"
+version: "v0.0.10"
 port: 3069
 description: >-
   Solo Bitcoin Mining with MintSolo via Umbrel: A Data-Driven Approach
@@ -57,8 +57,6 @@ releaseNotes: >-
 
   Changes in this release
     Changed zrok config file location.
-    Add healthcheck to mintsolo container.
-    Updates to both MintSolo and MintSolo containers.
     Rework zrok share settings to ensure successful connection on first run.
     Revised MintSolo-Intro page to provide a better configuration process.
     Links to latest version of the MintSolo Dashboard (https://mintsolo.com).
